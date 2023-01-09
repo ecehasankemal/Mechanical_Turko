@@ -130,7 +130,7 @@ boyut_t	fn_dizgiuzunluğu(değişmez karakter *dizgi)
 
 // ascii bir dizgideki sayı değerini tam sayıya dönüştürür
 
-tamsayı fn_atam(karakter *dizgi)
+tamsayı fn_astam(karakter *dizgi)
 {
 	tamsayı		konum;
 	tamsayı		çarp;
