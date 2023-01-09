@@ -91,7 +91,7 @@ boşluk	*fn_hafızayıtaşı(boşluk *varış, değişmez karakter *kaynak, boyu
 
 // varış dizgisinin baytboyutu kadarına değer baytını doldurur
 
-boşluk	*fn_hafızakoyma(boşluk *varış, tamsayı değer, boyut_t baytboyutu)
+boşluk	*fn_hafızayakoyma(boşluk *varış, tamsayı değer, boyut_t baytboyutu)
 {
 	karakter	*dizgi;
 	boyut_t		konum;
