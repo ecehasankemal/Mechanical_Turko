@@ -24,5 +24,6 @@ typedef unsigned long int boyut_t;
 # define write yaz
 # define BOŞ NULL
 # define işaretsiz unsigned
+# define uzunsayı long
 
 #endif
