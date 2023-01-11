@@ -82,5 +82,8 @@ tamsayı	başla(boşluk)
 	tut = dizgiuzunluk(dizgi);
 	bastır ("benim adım %s ve ismim %d karakterden oluşuyor", dizgi, tut);
 	bastır ("\nayrılmış olan yerde şu kelime yazmaktadır = %s\n", kelime);
+
+	yinele (tamsayı a = 1; a <= 5; a++)
+		bastır ("%d\n", a);
 	döndür (0);
 }
